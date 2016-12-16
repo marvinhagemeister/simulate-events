@@ -1,0 +1,11 @@
+config/
+node_modules/
+scripts/
+src/
+typings/
+.editorconfig
+.gitignore
+.npmignore
+.travis.yml
+tsconfig.json
+tslint.json
