@@ -1,8 +1,9 @@
 {
-  "name": "typescript-starter",
-  "version": "0.0.1",
-  "description": "typescript boilerplate project",
+  "name": "simulate-events",
+  "version": "1.0.0",
+  "description": "Simulate DOM events in non-browser environments like jsdom.",
   "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "author": "Marvin Hagemeister <marvin@marvinhagemeister.de>",
   "license": "MIT",
   "scripts": {
